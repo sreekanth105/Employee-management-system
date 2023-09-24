@@ -1,1 +1,1 @@
-# Employee-management-system
+# college-management-system
